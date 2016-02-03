@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "engines": {
+    "node": "5.2.x"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "mocha": "^2.1.0",
+    "power-assert": "^0.10.1"
+  }
+}
